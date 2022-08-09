@@ -1,0 +1,33 @@
+h1 {
+    color:red;
+}
+li {
+    color:red;
+}
+.html {
+    color:red;
+}
+.css {
+    color:blue;
+}
+.red {
+    color: red;
+    font-size: 24px;
+}
+.line {
+    line-height: 2;
+}
+h2 {
+    color:green;
+}
+i {
+    color:blue;
+}
+#first {
+    color:brown;
+}
+.rediv {
+    color:red;
+    font-size: 24px;
+    font-weight: bold;
+}
